@@ -1,3 +1,5 @@
+# Welcome to Open Source @ CS Club 👋
+
 ## Get Involved
 
 Join the CS Club Open Source Team and be part of a vibrant community, building innovative open-source software together. Explore our current projects and find "good first issue" opportunities to jump right in!
