@@ -9,3 +9,9 @@ Join the CS Club Open Source Team and be part of a vibrant community, building i
 - Visit our [website](https://www.csclub.org.au) to learn more!
 
 The CS Club Open Source Team follows our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing Guidelines](../CONTRIBUTING.md)
+
+## Contact Us
+
+The open-source managers are [@phoenixpereira](https://github.com/phoenixpereira) and [@jsun969](https://github.com/jsun969).
+
+If you have any queries, please contact us via [dev@csclub.org.au](mailto:dev@csclub.org.au).
