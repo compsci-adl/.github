@@ -1,4 +1,4 @@
-# Welcome to Open Source @ CS Club 👋
+# Welcome to Open Source @ CS Club 👋🦆
 
 ## Get Involved
 
