@@ -8,7 +8,7 @@ Join the CS Club Open Source Team and be part of a vibrant community, building i
 - Join the team [here](https://docs.google.com/forms/d/e/1FAIpQLSe2uvnn4qW95yJ7TzyDo7QMjzhkawvdERRDmeBLMwloi-nqjg/viewform?usp=sf_link)
 - Visit our [website](https://www.csclub.org.au) to learn more!
 
-The CS Club Open Source Team follows our [Code of Conduct](../CODE_OF_CONDUCT.md) and [Contributing Guidelines](../CONTRIBUTING.md)
+The CS Club Open Source Team follows our [Code of Conduct](https://github.com/compsci-adl/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/compsci-adl/.github/blob/main/CONTRIBUTING.md)
 
 ## Contact Us
 
