@@ -12,7 +12,8 @@ The CS Club Open Source Team follows our [Code of Conduct](https://github.com/co
 
 ## ✉️ Contact Us
 
-The Open Source & Infrastructure Manager is [@phoenixpereira](https://github.com/phoenixpereira) and the Open Source Officers are [@SouthernPolaris ](https://github.com/SouthernPolaris ) and [@kent-200](https://github.com/kent-200).
+The Open Source & Infrastructure Manager is [@JLiang126](https://github.com/JLiang126) and the Open Source Officers are [@elihinton](https://github.com/elihinton) and George.
 
 If you have any queries, please contact us via [dev@csclub.org.au](mailto:dev@csclub.org.au).
+
 
