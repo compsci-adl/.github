@@ -1,0 +1,24 @@
+name: Task
+description: Request a general task, improvement, or refactor.
+labels: '[Task]'
+body:
+  - type: textarea
+    attributes:
+      label: "Task Summary"
+      description: "e.g., Refactor ABC"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Task Details"
+      description: "Explain what needs to be done."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Notes
+      description: Add any other notes or screenshots about the task here.
+    validations:
+      required: false

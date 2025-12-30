@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://csclub.atlassian.net/wiki/spaces/csclub/overview
+    about: Please consult our documentation before creating an issue.
+  - name: Discord
+    url: https://discord.gg/UjvVxHA
+    about: Join the CS Club Discord server and get the "Open Source Team" role to ask questions and collaborate with us on our projects.
