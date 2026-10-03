@@ -12,7 +12,7 @@ The CS Club Open Source Team follows our [Code of Conduct](https://github.com/co
 
 ## ✉️ Contact Us
 
-The Open Source & Infrastructure Manager is [@JLiang126](https://github.com/JLiang126) and the Open Source Officers are @[AustinH-adl](https://github.com/AustinH-adl) @[@kudzaitaruwona](https://github.com/kudzaitaruwona) and [@GeorgeK07](https://github.com/GeorgeK07).
+The Open Source & Infrastructure Manager is [@JLiang126](https://github.com/JLiang126) and the Open Source Officers are [@AustinH-adl](https://github.com/AustinH-adl), [@kudzaitaruwona](https://github.com/kudzaitaruwona) and [@GeorgeK07](https://github.com/GeorgeK07).
 
 If you have any queries, please contact us via [dev@csclub.org.au](mailto:dev@csclub.org.au).
 
